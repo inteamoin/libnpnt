@@ -34,8 +34,6 @@
 #include <string.h>
 #include <stdarg.h>
 #include <ctype.h>
-#include <npnt_config.h>
-
 /*
  * Version number...
  */
